@@ -4,16 +4,13 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
-description: Project description
+title: BC Apps
+description: Welcome to BC Apps, the home of apps for Microsoft Dynamics 365 Business Central
 buttons:
-    - content: Button
-      url: '#'
+    - content: Show me the apps
+      icon: arrow-right
+      url: 'apps'
       external_url: false
-    - icon: github
-      content: Button with icon
-      url: '#'
-      external_url: true
 
 # Author box
 author:
@@ -28,4 +25,8 @@ grid_navigation:
       excerpt: Section description
       cta: Read more
       url: '#'
+    - title: EULA
+      excerpt: The End User License Agreement sets out the terms and conditions for using our apps
+      cta: Read the EULA
+      url: 'eula'
 ---
