@@ -1,33 +1,29 @@
 # Theme settings
 doks:
-    baseurl:
-    color_theme: # Available themes: blue (default), green, purple, red and yellow
+    baseurl: 
+    color_theme: blue # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
-            text:
-            image: logo.png
+            text: App Catalogue
+            image: 
         nav:
-            - item_name: Item 1
-              item_url: '#'
-            - item_name: Item 2
-              item_url: '#'
-            - item_name: Item 3
-              item_url: '#'
+            - item_name: www.bcapps.co
+              external_url:  true
+              item_url: https://www.bcapps.co
+            - item_name: Log Issue
+              external_url: true
+              item_url: https://github.com/BCAppsLimited/bcappslimited.github.io/issues/new/choose
     footer:
         content:
             logo:
-                text: Project name
-                image:
-            copyright: Copyright &copy; 2017. - Project name <br>All rights reserved.
+                text: App Catalogue
+                image: false
+            copyright: Copyright &copy; 2023. - BC Apps Limited <br>All rights reserved.
         social_list:
-            - network_name: facebook
-              profile_url: '#'
-            - network_name: twitter
-              profile_url: '#'
-            - network_name: instagram
-              profile_url: '#'
-            - network_name: youtube
-              profile_url: '#'
+            - network_name: home
+              profile_url: https://www.bcapps.co
+            - network_name: github
+              profile_url: https://github.com/BCAppsLimited/StreetAs
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
@@ -43,3 +39,4 @@ layouts_dir: ./doks-theme/_layouts
 includes_dir: ./doks-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
+environment: Production
