@@ -25,4 +25,10 @@ grid_navigation:
       excerpt: Street As is an extension for Microsoft Dynamics 365 Business Central that makes managing New Zealand postal addresses easy as.
       cta: Read more
       url: 'street-as'
+
+    - title: Bank Validator
+      excerpt: Bank Validator is for validating bank account numbers. Specifically New Zealand and Australian bank account numbers.
+      cta: Read more
+      url: 'bank-validator'
+
 ---

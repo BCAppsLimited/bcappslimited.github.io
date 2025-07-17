@@ -24,8 +24,8 @@ page_nav:
         content: Previous page
         url: '/index'
     next:
-        content: 
-        url:
+        content: Bank Validator
+        url: /bank-validator
 ---
 
 # What is Street As?
