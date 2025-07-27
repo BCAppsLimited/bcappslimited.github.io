@@ -31,4 +31,9 @@ grid_navigation:
       cta: Read more
       url: 'bank-validator'
 
+    - title: Bulk Delete
+      excerpt: Bulk Delete is a tool for making it easy to delete multiple records in one go. Useful when the list page only allows deleting one record at a time.
+      cta: Read more
+      url: 'bulk-delete'
+
 ---
