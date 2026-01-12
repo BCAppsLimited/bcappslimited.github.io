@@ -35,18 +35,17 @@ There are some list pages in Business Central where you can only delete records 
 - **Items**
 - **Customers**
 - **Vendors**
+- **Fixed Assets**
 
 There are also occasions where you want to delete a whole bunch of records and you don't really want to sit there hitting the delete button, waiting for the related card page to launch with a question asking if you want to delete the record, selecting yes, waiting for the delete to succeed or fail, reviewing the error messages, etc.
 
-The Bulk Delete app adds a new **Bulk Delete** action to the Items, Customers, and Vendors list pages that will create a bulk delete request which you can review before continuing. Any errors for records that could not be deleted are logged for you to review later.
+The Bulk Delete app adds a new **Bulk Delete** action to the Items, Customers, Vendors, and Fixed Assets list pages that will create a bulk delete request which you can review before continuing. Any errors for records that could not be deleted are logged for you to review later. This feature is completely free and does not require a license.
 
-# How Much?
-
-## Free
-
-That's right, this handy utility is completely free, so check it out at the AppSource site.
+That's right, this handy utility has completely free features, so check it out at the AppSource site. Bulk Delete also has premium features that allow scheduled tasks to delete from any table including using truncate and restricted tables (in a Sandbox only). Delete packages can be configured by any users without a license, although you will need a license in order to process a delete package.
 
 Bulk Delete is available through [Microsoft's AppSource](https://appsource.microsoft.com/en-us/product/dynamics-365-business-central/PUBID.bcappslimited1693858041247%7CAID.bulk-delete%7CPAPPID.f6ed7976-9eb2-4854-b0e3-ab8a4a3f23ea?tab=Overview) and just in case you're not sure how to get started and install the product, checkout our [Install Guide](/BulkDelete/install-guide).
+
+
 
 # Where can I Learn More?
 
