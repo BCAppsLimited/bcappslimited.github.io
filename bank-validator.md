@@ -25,7 +25,7 @@ page_nav:
         url: '/street-as'
     next:
         content: 
-        url:
+        url: '/bulk-delete'
 ---
 
 # What is Bank Validator?
