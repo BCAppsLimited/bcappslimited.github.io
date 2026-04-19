@@ -24,7 +24,7 @@ page_nav:
         content: Street As
         url: '/street-as'
     next:
-        content: 
+        content: Bulk Delete
         url: '/bulk-delete'
 ---
 
